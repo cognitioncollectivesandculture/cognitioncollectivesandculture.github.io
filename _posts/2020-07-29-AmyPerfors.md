@@ -2,7 +2,8 @@
 title: "Amy Perfors: Trust and the emergence of “echo chambers” in populations of Bayesian agents"
 layout: post
 author: "Amy Perfors"
-categories: Emergent properties of collectives
+date: 2020-07-29 13:00 -0400
+categories: Theme2
 ---
 
 ### Abstract
