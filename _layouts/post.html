@@ -24,7 +24,7 @@ layout: default
     {% if page.author %}
       <div itemprop="author">{{ page.author }}</div>
     {% endif %}
-    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y %H:%M" }}</time>
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y %H:%M %Z" }}</time>
   </div>
 
   {% if site.disqus.shortname %}
