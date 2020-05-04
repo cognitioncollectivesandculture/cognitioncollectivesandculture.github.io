@@ -23,12 +23,7 @@ layout: default
 {% endif %}
 
 <main class="home" id="main" role="main" aria-label="Content">
-
-  <div >
-    <p>Cognitive capacities such as learning, reasoning, and decision-making are often studied in tasks where a single participant acts in isolation. Yet humans don't learn, reason, and make decisions in a vacuum. Human cognition is distinctively social: Much of what we do influences&#8212;and is influenced by&#8212;ther people. </p> <br>
-
-    <p>The goal of this workshop is to bring together diverse perspectives on the interplay between human cognition and the dynamic, social environments we inhabit. The workshop is organized around three key themes. Theme 1 lays out the cognitive tools that equip individuals to thrive in social environments, including specialized mechanisms for teaching and learning from others. Theme 2 examines how the social environment is itself shaped by the dynamic interactions between multiple individuals, producing emergent behaviors at the level of the collective. Finally, Theme 3 explores how human cognition responds to the demands of particular social environments, including how cultural variability in social cognition might emerge across development.</p>
-  </div>
+>
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
@@ -41,7 +36,7 @@ layout: default
     
     <ul class="post-list">
       {% assign sorted = (paginator.posts | sort: 'date') | reverse %}
-      {% for post in site.posts %}
+      {% for post in sorted %}
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
@@ -68,7 +63,7 @@ layout: default
 
     <ul class="post-list">
       {% assign sorted = (paginator.posts | sort: 'date') | reverse %}
-      {% for post in site.posts %}
+      {% for post in sorted %}
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
