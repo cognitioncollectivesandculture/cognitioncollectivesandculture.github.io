@@ -1,8 +1,8 @@
 ---
-title: "Natalia Vel'\{e\}z:  Multigenerational innovation and division of labor in
+title: "Natalia Velez:  Multigenerational innovation and division of labor in
 online communities"
 layout: post
-author: "Natalia Vel'\{e\}z"
+author: "Natalia Velez"
 categories:  Cognition and culture
 ---
 
