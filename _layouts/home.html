@@ -61,6 +61,7 @@ layout: default
   {% else %}
 
     <ul class="post-list">
+      {% assign sorted = (site.collection_name | sort: 'date') | reverse %}
       {% for post in site.posts %}
         {% include post-list-item.html %}
       {% endfor %}
