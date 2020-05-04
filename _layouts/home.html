@@ -28,14 +28,15 @@ layout: default
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
     {% else %}
-      Contents
+      Talks
     {% endif %}
   </h1>
 
   {% if site.paginate and site.paginate_path %}
     
     <ul class="post-list">
-      {% for post in paginator.posts %}
+      {% assign sorted = (paginator.posts | sort: 'date') | reverse %}
+      {% for post in site.posts %}
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
@@ -61,7 +62,7 @@ layout: default
   {% else %}
 
     <ul class="post-list">
-      {% assign sorted = (site.collection_name | sort: 'date') | reverse %}
+      {% assign sorted = (paginator.posts | sort: 'date') | reverse %}
       {% for post in site.posts %}
         {% include post-list-item.html %}
       {% endfor %}
