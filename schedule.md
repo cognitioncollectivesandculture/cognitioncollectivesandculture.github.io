@@ -4,7 +4,7 @@ title: Schedule
 comments: false
 ---
 
-All talks are scheduled for **JUL 29, 2020**
+All talks are scheduled for **JULY 29th, 2020**.
 
 ### Theme 1: Cognitive mechanisms of social learning
 
@@ -24,7 +24,7 @@ All talks are scheduled for **JUL 29, 2020**
 |------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------	|
 | Robert Goldstone 	| [Studying emergent group behavior from a complex systems](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/RobGoldstone.html) perspective                                                                                                      	| 11:00 EDT 	|
 | Seth Frey        	| [Using large social datasets from games, sports, and online communities to link macro-scale system outcomes to social reasoning and interaction mechanisms of individuals](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/SethFrey.html) 	| 11:20 EDT 	|
-| Lunch Break      	|                                                                                                                                                                          	|           	|
+|      	| Lunch Break                                                                                                                                                                        	|           	|
 | Amy Perfors      	| [Trust and the emergence of “echo chambers” in populations of Bayesian](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/AmyPerfors.html) agents                                                                                             	| 13:00 EDT 	|
 | Sholei Croom     	| [Integrating structural power and historical contingency into computational frameworks of social](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/SholeiCroom.html) behavior                                                                 	| 13:20 EDT 	|
 
