@@ -22,11 +22,11 @@ All talks are scheduled for **JULY 29th, 2020**.
 {:.schedule}
 | Speaker          	| Title                                                                                                                                                                    	| Time      	|
 |------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------	|
-| Robert Goldstone 	| [Studying emergent group behavior from a complex systems](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/RobGoldstone.html) perspective                                                                                                      	| 11:00 EDT 	|
+| Robert Goldstone 	| [Studying emergent group behavior from a complex systems perspective](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/RobGoldstone.html)                                                                                                       	| 11:00 EDT 	|
 | Seth Frey        	| [Using large social datasets from games, sports, and online communities to link macro-scale system outcomes to social reasoning and interaction mechanisms of individuals](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/SethFrey.html) 	| 11:20 EDT 	|
 |      	| Lunch Break                                                                                                                                                                        	|           	|
-| Amy Perfors      	| [Trust and the emergence of “echo chambers” in populations of Bayesian](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/AmyPerfors.html) agents                                                                                             	| 13:00 EDT 	|
-| Sholei Croom     	| [Integrating structural power and historical contingency into computational frameworks of social](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/SholeiCroom.html) behavior                                                                 	| 13:20 EDT 	|
+| Amy Perfors      	| [Trust and the emergence of “echo chambers” in populations of Bayesian agents](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/AmyPerfors.html)                                                                                              	| 13:00 EDT 	|
+| Sholei Croom     	| [Integrating structural power and historical contingency into computational frameworks of social behavior](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/SholeiCroom.html)                                                                  	| 13:20 EDT 	|
 
 
 
