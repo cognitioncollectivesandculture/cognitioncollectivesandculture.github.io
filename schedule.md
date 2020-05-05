@@ -4,10 +4,11 @@ title: Schedule
 comments: false
 ---
 
-All talks are scheduled for ** JUL 29, 2020 **
+All talks are scheduled for **JUL 29, 2020**
 
 ### Theme 1: Cognitive mechanisms of social learning
 
+{:.schedule}
 | Speaker        	| Title                                                                                           	| Time      	|
 |----------------	|-------------------------------------------------------------------------------------------------	|-----------	|
 | Mark Ho        	| [Computational models of teaching with evaluative feedback and by demonstration](https://cognitioncollectivesandculture.github.io/theme1/2020/07/29/MarkHo.html)                  	| 09:00 EDT 	|
@@ -18,6 +19,7 @@ All talks are scheduled for ** JUL 29, 2020 **
 
 ### Theme 2: Emergent properties of collectives
 
+{:.schedule}
 | Speaker          	| Title                                                                                                                                                                    	| Time      	|
 |------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------	|
 | Robert Goldstone 	| [Studying emergent group behavior from a complex systems](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/RobGoldstone.html) perspective                                                                                                      	| 11:00 EDT 	|
@@ -30,6 +32,7 @@ All talks are scheduled for ** JUL 29, 2020 **
 
 ### Theme 3: Cognition and culture
 
+{:.schedule}
 | Speaker         	| Title                                                                                  	| Time      	|
 |-----------------	|----------------------------------------------------------------------------------------	|-----------	|
 | Cecilia Heyes   	| [Bridging social learning and cultural learning](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/CeliaHeyes.html)                                         	| 14:00 EDT 	|
@@ -37,9 +40,12 @@ All talks are scheduled for ** JUL 29, 2020 **
 | Kara Weisman    	| [The development of conceptual representations of mental life in five cultural contexts](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/KaraWeisman.html) 	| 14:40 EDT 	|
 | Cristine Legare 	| [Cultural transmission and the development of social cognition in twelve countries](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/CristineLegare.html)      	| 15:00 EDT 	|
 
+
 ### Panel Discussion
 
 [From 15:45 to 16:30 EDT with all speakers](https://cognitioncollectivesandculture.github.io/discussion/2020/07/29/PanelDiscussion.html).
+
+
 
 Submit a question for the panel discussion below:
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7xE6uDLJ0PIZDVVtE_Bm73Ak9NHePs-f08yHA9OJrWIB7xg/viewform?embedded=true" width="640" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
