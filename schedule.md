@@ -46,6 +46,4 @@ All talks are scheduled for **JUL 29, 2020**
 [From 15:45 to 16:30 EDT with all speakers](https://cognitioncollectivesandculture.github.io/discussion/2020/07/29/PanelDiscussion.html).
 
 
-
-Submit a question for the panel discussion below:
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7xE6uDLJ0PIZDVVtE_Bm73Ak9NHePs-f08yHA9OJrWIB7xg/viewform?embedded=true" width="640" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
