@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Organizers
+comments: false
 ---
 
 #### Charley Wu

@@ -1,7 +1,42 @@
 ---
 layout: post
 title: Schedule
+comments: false
 ---
 
-Schedule
+All talks are scheduled for ** JUL 29, 2020 **
 
+### Theme 1: Cognitive mechanisms of social learning
+
+| Speaker        	| Title                                                                                           	| Time      	|
+|----------------	|-------------------------------------------------------------------------------------------------	|-----------	|
+| Mark Ho        	| [Computational models of teaching with evaluative feedback and by demonstration](https://cognitioncollectivesandculture.github.io/theme1/2020/07/29/MarkHo.html)                  	| 09:00 EDT 	|
+| Patrick Shafto 	| [A mathematical theory of cooperative communication](https://cognitioncollectivesandculture.github.io/theme1/2020/07/29/PatShafto.html)                                              	| 09:20 EDT 	|
+| Hyowon Gweon   	| [Social curiosity and social learning in young children](https://cognitioncollectivesandculture.github.io/theme1/2020/07/29/HyoGweon.html)                                          	| 09:40 EDT 	|
+| Charley Wu     	| [Attentional trade-offs between individual and social learning in a virtual foraging environment](https://cognitioncollectivesandculture.github.io/theme1/2020/07/29/CharleyWu.html) 	| 10:00 EDT 	|
+
+
+### Theme 2: Emergent properties of collectives
+
+| Speaker          	| Title                                                                                                                                                                    	| Time      	|
+|------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------	|
+| Robert Goldstone 	| [Studying emergent group behavior from a complex systems](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/RobGoldstone.html) perspective                                                                                                      	| 11:00 EDT 	|
+| Seth Frey        	| [Using large social datasets from games, sports, and online communities to link macro-scale system outcomes to social reasoning and interaction mechanisms of individuals](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/SethFrey.html) 	| 11:20 EDT 	|
+| Lunch Break      	|                                                                                                                                                                          	|           	|
+| Amy Perfors      	| [Trust and the emergence of “echo chambers” in populations of Bayesian](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/AmyPerfors.html) agents                                                                                             	| 13:00 EDT 	|
+| Sholei Croom     	| [Integrating structural power and historical contingency into computational frameworks of social](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/SholeiCroom.html) behavior                                                                 	| 13:20 EDT 	|
+
+
+
+### Theme 3: Cognition and culture
+
+| Speaker         	| Title                                                                                  	| Time      	|
+|-----------------	|----------------------------------------------------------------------------------------	|-----------	|
+| Cecilia Heyes   	| [Bridging social learning and cultural learning](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/CeliaHeyes.html)                                         	| 14:00 EDT 	|
+| Natalia Veléz   	| [Multigenerational innovation and division of labor in online communities](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/NataliaVelez.html)               	| 14:20 EDT 	|
+| Kara Weisman    	| [The development of conceptual representations of mental life in five cultural contexts](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/KaraWeisman.html) 	| 14:40 EDT 	|
+| Cristine Legare 	| [Cultural transmission and the development of social cognition in twelve countries](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/CristineLegare.html)      	| 15:00 EDT 	|
+
+### Panel Discussion
+
+From 15:45 to 16:30 EDT with all speakers.
