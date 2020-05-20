@@ -3,7 +3,7 @@ title: "Kara Weisman: The development of conceptual representations of
 mental life in five cultural contexts"
 layout: post
 author: "Kara Weisman"
-date: 2020-07-29 14:40
+date: 2020-07-29 14:20
 categories:  Theme3
 ---
 
