@@ -8,6 +8,7 @@ categories: Theme2
 ---
 
 ### Video
+*coming soon (July 20th, 2020)*
 
 ### Abstract
 

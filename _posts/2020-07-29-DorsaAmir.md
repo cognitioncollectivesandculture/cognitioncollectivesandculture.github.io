@@ -7,6 +7,7 @@ categories:  Theme3
 ---
 
 ### Video
+*coming soon (July 20th, 2020)*
 
 ### Abstract
 

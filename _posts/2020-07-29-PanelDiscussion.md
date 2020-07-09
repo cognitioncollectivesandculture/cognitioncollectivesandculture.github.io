@@ -5,9 +5,11 @@ author: ""
 date: 2020-07-29 15:45
 categories:  Discussion
 ---
+### Attendance link (Zoom)
+*Comming soon*
 
 ### Video
-
+*A recording of the live panel discussion will be uploaded after the workshop*
 
 ### Submit Discussion Questions
 
