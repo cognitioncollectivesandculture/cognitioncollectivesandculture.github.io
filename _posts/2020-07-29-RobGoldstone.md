@@ -6,8 +6,6 @@ date: 2020-07-29 11:00
 categories: Theme2
 ---
 
-### Video
-
 <iframe width="853" height="505" src="https://www.youtube.com/embed/4sCKREHn8wQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Abstract
