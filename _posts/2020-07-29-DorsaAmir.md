@@ -6,7 +6,6 @@ date: 2020-07-29 14:40
 categories:  Theme3
 ---
 
-### Video
 {% include youtube.html id='bSLEiJEMllQ' %}
 
 ### Abstract

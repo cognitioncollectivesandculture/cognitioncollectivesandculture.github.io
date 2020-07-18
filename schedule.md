@@ -38,7 +38,7 @@ All talks are scheduled for **JULY 29th, 2020**.
 | Natalia Veléz   	| [Multigenerational innovation and division of labor in online communities](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/NataliaVelez.html)                                          	| 14:00 EDT 	| 
 | Kara Weisman    	| [The development of conceptual representations of mental life in five cultural contexts](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/KaraWeisman.html)               	| 14:20 EDT 	|
 | Dorsa Amir   	| [The ontogeny of social decision-making across diverse cultural contexts](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/DorsaAmir.html) 	| 14:40 EDT 	|
-| Cristine Legare 	| [Cultural transmission and the development of social cognition in twelve countries](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/CristineLegare.html)      	| 15:00 EDT 	|
+| Cristine Legare 	| [Cultural transmission and the development of social learning](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/CristineLegare.html)      	| 15:00 EDT 	|
 
 
 ### Panel Discussion
