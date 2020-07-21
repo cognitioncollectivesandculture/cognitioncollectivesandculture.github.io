@@ -6,8 +6,7 @@ date: 2020-07-29 13:20
 categories: Theme2
 ---
 
-### Video
-<center>*coming soon (July 20th, 2020)*</center>
+{% include youtube.html id='c0-UfrKTF0' %}
 
 ### Abstract
 
