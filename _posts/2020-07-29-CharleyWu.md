@@ -7,8 +7,7 @@ date: 2020-07-29 10:00
 categories: Theme1
 ---
 
-### Video
-<center>*coming soon (July 20th, 2020)*</center>
+{% include youtube.html id='_rDE49k1ENM' %}
 
 ### Abstract
 Collective search is an important and widespread phenomenon across biological systems. From bacteria to fish, birds, and mammals, individuals join forces to more effectively and efficiently search for resources or safety.  An important question in any social learning environment is knowing when to imitate others and when to innovate as an individual. Here we introduce a novel framework for studying collective search in human groups, which uses the Minecraft game engine to provide rich visual field data and exact spatial tracking. As in natural environments, the task imposes a limited field of view, which creates a resource allocation problem: visual attention can either be allocated to focus on individual exploration or to look towards peers for social imitation. At the heart of this task is a social coordination problem, where too many imitators can cause a collapse in both individual and group fitness (Rogers, 1988). In environments with clustered rewards, groups perform better than individuals and we detect a higher frequency of social influence events based on movement patterns. However, in environments with random rewards (where social learning has no benefit), both individuals and collectives rapidly adapt by reducing visual attention towards peers. This adaptation of social and individual learning to the demands of the environment is achieved through specialization and selective imitation, rather than homogeneity and indiscriminate copying. 

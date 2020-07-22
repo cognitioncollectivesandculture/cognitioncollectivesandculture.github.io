@@ -7,7 +7,7 @@ categories: Theme1
 ---
 
 ### Video
-<center>*coming soon (July 20th, 2020)*</center>
+<center>*coming soon*</center>
 
 ### Abstract
 
