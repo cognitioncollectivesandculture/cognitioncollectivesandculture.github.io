@@ -6,9 +6,7 @@ author: "Kara Weisman"
 date: 2020-07-29 14:20
 categories:  Theme3
 ---
-
-### Video
-<center>*coming soon*</center>
+{% include youtube.html id='IjZ4vcGeHfE' %}
 
 
 ### Abstract
