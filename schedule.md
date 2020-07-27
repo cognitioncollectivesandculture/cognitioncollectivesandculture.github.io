@@ -12,7 +12,7 @@ All talks are scheduled for **JULY 29th, 2020**.
 | Speaker        	| Title                                                                                           	| Time      	|
 |----------------	|-------------------------------------------------------------------------------------------------	|-----------	|
 | Mark Ho        	| [Computational models of teaching with evaluative feedback and by demonstration](https://cognitioncollectivesandculture.github.io/theme1/2020/07/29/MarkHo.html)                  	| 09:00 EDT 	|
-| Patrick Shafto 	| [A mathematical theory of cooperative communication](https://cognitioncollectivesandculture.github.io/theme1/2020/07/29/PatShafto.html)                                              	| 09:20 EDT 	|
+| Patrick Shafto 	| [Sequential Cooperative Bayesian Inference](https://cognitioncollectivesandculture.github.io/theme1/2020/07/29/PatShafto.html)                                              	| 09:20 EDT 	|
 | Hyowon Gweon   	| [Learning from others, helping others learn: Inferential social learning & teaching in early childhood](https://cognitioncollectivesandculture.github.io/theme1/2020/07/29/HyoGweon.html)                                          	| 09:40 EDT 	|
 | Charley Wu     	| [Attentional trade-offs between individual and social learning in a virtual foraging environment](https://cognitioncollectivesandculture.github.io/theme1/2020/07/29/CharleyWu.html) 	| 10:00 EDT 	|
 |      	| Coffee break                                                      |   10:20 - 10:55 EDT        	|
