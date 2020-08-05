@@ -14,7 +14,7 @@ Charley is a postdoc at Harvard working with Fiery Cushman and Sam Gershman at t
 
 
 
-#### Natalia Veléz
+#### Natalia Vélez
 
 {:refdef: style="text-align: center;"}
 ![NataliaVelez]({{ site.baseimg }}/assets/images/natalia.jpg)
