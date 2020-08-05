@@ -2,7 +2,7 @@
 title: "Natalia Veléz:  Multigenerational innovation and division of labor in
 online communities"
 layout: post
-author: "Natalia Veléz"
+author: "Natalia Vélez"
 date: 2020-07-29 14:00
 categories:  Theme3
 ---
