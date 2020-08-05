@@ -1,5 +1,5 @@
 ---
-title: "Natalia Veléz:  Multigenerational innovation and division of labor in
+title: "Natalia Vélez:  Multigenerational innovation and division of labor in
 online communities"
 layout: post
 author: "Natalia Vélez"
