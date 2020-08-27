@@ -26,7 +26,7 @@ All talks are scheduled for **JULY 29th, 2020**.
 | Robert Goldstone 	| [The Emergence of Group Coordination](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/RobGoldstone.html)                                                                                                       	| 11:00 EDT 	|
 | Seth Frey        	| [Using large social datasets from games, sports, and online communities to link macro-scale system outcomes to social reasoning and interaction mechanisms of individuals](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/SethFrey.html) 	| 11:20 EDT 	|
 |      	| Lunch Break     	|  11:40 - 12:55 EDT        	|
-| Amy Perfors      	| [Trust and the emergence of “echo chambers” in populations of Bayesian agents](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/AmyPerfors.html)                                                                                              	| 13:00 EDT 	|
+| Andy Perfors      	| [Trust and the emergence of “echo chambers” in populations of Bayesian agents](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/AndyPerfors.html)                                                                                              	| 13:00 EDT 	|
 | Sholei Croom     	| [Integrating structural power and historical contingency into computational frameworks of social behavior](https://cognitioncollectivesandculture.github.io/theme2/2020/07/29/SholeiCroom.html) 	| 13:20 EDT 	|
 |      	| Coffee Break     	|  13:40 - 13:55 EDT        	|
 
